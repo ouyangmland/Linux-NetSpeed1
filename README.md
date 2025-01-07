@@ -22,7 +22,7 @@ wget -O tcpx.sh "https://github.com/ylx2016/Linux-NetSpeed/raw/master/tcpx.sh" &
 
 卸载内核版本
 ```
-wget -O tcp.sh "https://github.com/ylx2016/Linux-NetSpeed/raw/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
+wget -O tcp.sh "https://github.com/ouyangmland/Linux-NetSpeed1/raw/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
 ```
 关联action自动编译内核
 
